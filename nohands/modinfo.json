@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "nohands",
+    "name": "No Hands",
+    "authors": [
+        "Maltiez"
+    ],
+    "description": "Hides hands in first person view",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.19.0-rc.1"
+    }
+}
